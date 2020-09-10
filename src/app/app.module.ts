@@ -15,6 +15,11 @@ import { Wing4Component } from './wing4/wing4.component';
 import { Wing5Component } from './wing5/wing5.component';
 import { Wing6Component } from './wing6/wing6.component';
 import { Wing7Component } from './wing7/wing7.component';
+import { Wing1vgComponent } from './wing1vg/wing1vg.component';
+import { Wing1srComponent } from './wing1sr/wing1sr.component';
+import { Wing1gorsComponent } from './wing1gors/wing1gors.component';
+import { Wing1sabComponent } from './wing1sab/wing1sab.component';
+import { StrikesComponent } from './strikes/strikes.component';
 
 @NgModule({
   declarations: [
@@ -30,7 +35,12 @@ import { Wing7Component } from './wing7/wing7.component';
     Wing4Component,
     Wing5Component,
     Wing6Component,
-    Wing7Component
+    Wing7Component,
+    Wing1vgComponent,
+    Wing1srComponent,
+    Wing1gorsComponent,
+    Wing1sabComponent,
+    StrikesComponent
   ],
   imports: [
     BrowserModule,
