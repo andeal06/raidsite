@@ -6,7 +6,6 @@ import { AppComponent } from './app.component';
 import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { RaidWingsComponent } from './raid-wings/raid-wings.component';
 import { HomepageComponent } from './homepage/homepage.component';
-import { CompsComponent } from './comps/comps.component';
 import { BuildsComponent } from './builds/builds.component';
 import { Wing1Component } from './wing1/wing1.component';
 import { Wing2Component } from './wing2/wing2.component';
@@ -27,7 +26,6 @@ import { StrikesComponent } from './strikes/strikes.component';
     NavBarComponent,
     RaidWingsComponent,
     HomepageComponent,
-    CompsComponent,
     BuildsComponent,
     Wing1Component,
     Wing2Component,

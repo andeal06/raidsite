@@ -3,7 +3,7 @@ import { Routes, RouterModule } from '@angular/router';
 
 // Built components 
 import { BuildsComponent } from './builds/builds.component';
-import {  StrikesComponent } from './strikes/strikes.component';
+import { StrikesComponent } from './strikes/strikes.component';
 import { HomepageComponent } from './homepage/homepage.component';
 import { RaidWingsComponent } from './raid-wings/raid-wings.component';
 import { Wing1Component } from './wing1/wing1.component';
